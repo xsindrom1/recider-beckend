@@ -1,0 +1,10 @@
+runtime: python311
+service: backendpy
+entrypoint: gunicorn -b :$PORT app:app
+
+env_variables:
+  CSV_PATH: ./data/recido.csv
+
+handlers:
+- url: /.*
+  script: auto
