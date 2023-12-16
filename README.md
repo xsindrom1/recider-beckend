@@ -15,7 +15,7 @@ Other dependencies required to build the API can be found in [package.json](link
 
 ## Infrastructure Project
 
-![Infrastructure Image](link-to-infrastructure-image)
+![Infrastructure Image](https://github.com/xsindrom1/Submission-Backend-Bookself/blob/master/architecture%20ricider.png)
 
 ## API Documentation
 
